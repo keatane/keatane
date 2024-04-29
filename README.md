@@ -6,10 +6,11 @@ alias: <i>keatane</i>
 - 🐱 + 🎮 == ❤️ 
 - Italian (native)
 - English (B2)
+- Interests: Computer Security / CyberSecurity
 
 ## 🏃 My skills 
-HTML5  |  CSS3  |  C++  |  Python | PHP | Java 
-Blender 3D | Unity Game Engine | Godot Game Engine
+[HTML] - [CSS] - [C++] - [Python] - [PHP] - [Java]  
+[Blender 3D] - [Unity Game Engine] - [Godot Game Engine]
 
 ## 🏅 Milestones 
 - 27/07/2023 | Bachelor degree in Computer Science (110/110 cum laude) | <a href="https://unige.it">University of Genoa</a>, Italy
