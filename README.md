@@ -9,8 +9,9 @@ alias: <i>keatane</i>
 - Interests: Computer Security / CyberSecurity
 
 ## 🏃 My skills 
-[HTML] - [CSS] - [C++] - [Python] - [PHP] - [Java]  
-[Blender 3D] - [Unity Game Engine] - [Godot Game Engine]
+- From university: [HTML] - [CSS] - [C++] - [Python] - [PHP] - [Java & JUnit] - [JavaScript (Bun / NodeJS)] - [Docker (Podman)]  
+- From self-taught: [Nessus Vulnerability Scanner] - [Metasploit]  
+- From hobby: [Blender 3D] - [Unity Game Engine] - [Godot Game Engine]
 
 ## 🏅 Milestones 
 - 27/07/2023 | Bachelor degree in Computer Science (110/110 cum laude) | <a href="https://unige.it">University of Genoa</a>, Italy
@@ -18,5 +19,6 @@ alias: <i>keatane</i>
 
 ## 🫂 Find me on 
 - <a href="https://github.com/keatane" target="_blank" aria-label="GitHub">Github</a>
+- <a href="https://it.linkedin.com/in/kevin-cattaneo-3b5a221bb" target="_blank" aria-label="LinkedIn">LinkedIn</a>
 - <a href="https://www.instagram.com/kevin_levin33/" target="_blank" aria-label="Instagram">Instagram</a>
 - <a href="https://www.deviantart.com/kyukographics" target="_blank" aria-label="DeviantArt">DeviantArt</a>
