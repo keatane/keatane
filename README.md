@@ -2,16 +2,12 @@
 alias: <i>keatane</i>
 
 ## ✍️ About me 
-- Computer Science student
-- 🐱 + 🎮 == ❤️ 
-- Italian (native)
-- English (B2)
-- Interests: Computer Security / CyberSecurity
+- Master student in Computer Science
+- CyberSecurity Enthusiast
 
 ## 🏃 My skills 
-- From university: [HTML] - [CSS] - [C++] - [Python] - [PHP] - [Java & JUnit] - [JavaScript (Bun / NodeJS)] - [Docker (Podman)]  
-- From self-taught: [Nessus Vulnerability Scanner] - [Metasploit]  
-- From hobby: [Blender 3D] - [Unity Game Engine] - [Godot Game Engine]
+- [Python] - [Docker (Podman)] - Prompt Engineering  
+- Hobby: [Blender 3D] - [Unity Game Engine] - [Godot Game Engine]
 
 ## 🏅 Milestones 
 - 27/07/2023 | Bachelor degree in Computer Science (110/110 cum laude) | <a href="https://unige.it">University of Genoa</a>, Italy
