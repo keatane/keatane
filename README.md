@@ -2,8 +2,8 @@
 alias: <i>keatane</i>
 
 ## ✍️ About me 
-- Master student in Computer Science
-- CyberSecurity Enthusiast
+- Master Graduate in Computer Science
+- Cybersecurity Enthusiast
 
 ## 🏃 My skills 
 - [Python] - [Docker (Podman)] - Prompt Engineering  
