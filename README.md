@@ -1,17 +1,18 @@
 # Hi, I'm Kevin📎
-alias: <i>keatane</i>
+alias: <i>keatane</i>  
+co-founder of <a href="https://laboro.co">LABORO</a>
 
 ## ✍️ About me 
-- Master Graduate in Computer Science
+- MsC graduate in Computer Science
 - Cybersecurity Enthusiast
 
 ## 🏃 My skills 
-- [Python] - [Docker (Podman)] - Prompt Engineering  
+- [Python] - [Docker] - Prompt Engineering  
 - Hobby: [Blender 3D] - [Unity Game Engine] - [Godot Game Engine]
 
 ## 🏅 Milestones 
-- 27/07/2023 | Bachelor degree in Computer Science (110/110 cum laude) | <a href="https://unige.it">University of Genoa</a>, Italy
-- <i>current</i> | Master degree in Computer Science
+- 27/07/2023 | Bachelor degree in Computer Science (110/110 with laude) | <a href="https://unige.it">University of Genoa</a>, Italy
+- 25/07/2025 | Master degree in Computer Science (110/110 with laude) | <a href="https://unige.it">University of Genoa</a>, Italy
 
 ## 🫂 Find me on 
 - <a href="https://github.com/keatane" target="_blank" aria-label="GitHub">Github</a>
