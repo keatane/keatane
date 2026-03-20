@@ -11,6 +11,7 @@ website: [keatane.github.io](https://keatane.github.io/)
 - Hobby: [Blender 3D] - [Unity Game Engine] - [Godot Game Engine]
 
 ## 🏅 Milestones 
+- Microsoft SC-200 Analyst Certified
 - 27/07/2023 | Bachelor degree in Computer Science (110/110 with laude) | <a href="https://unige.it">University of Genoa</a>, Italy
 - 25/07/2025 | Master degree in Computer Science (110/110 with laude) | <a href="https://unige.it">University of Genoa</a>, Italy
 
