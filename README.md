@@ -17,4 +17,3 @@ website: [keatane.github.io](https://keatane.github.io/)
 
 ## 🫂 Find me on 
 - <a href="https://it.linkedin.com/in/kevin-cattaneo-3b5a221bb" target="_blank" aria-label="LinkedIn">LinkedIn</a>
-- <a href="https://www.instagram.com/kevin_levin33/" target="_blank" aria-label="Instagram">Instagram</a>
